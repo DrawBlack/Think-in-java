@@ -1,4 +1,4 @@
-package com.fengshan.Thread;
+package com.fengshan.DesignPattern;
 
 /**
  * Created by macbookpro on 2016/9/6.
